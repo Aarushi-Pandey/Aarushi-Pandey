@@ -5,7 +5,7 @@
 
 **🐱 My Github Data** 
 
-> 🏆 234 Contributions in the Year 2020
+> 🏆 235 Contributions in the Year 2020
  > 
 > 📦 115.6 kB Used in Github's Storage 
  > 
@@ -44,16 +44,19 @@ Sunday       18 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Tijuana
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 39 mins             ████████████████████████░   97.79% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.97% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  40 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+waka-readme-stats        40 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  40 mins             █████████████████████████   100.0%
 
 ```
 
