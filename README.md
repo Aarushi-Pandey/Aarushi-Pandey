@@ -5,7 +5,7 @@
 
 **🐱 My Github Data** 
 
-> 🏆 147 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2021
  > 
 > 📦 116.0 kB Used in Github's Storage 
  > 
@@ -74,5 +74,5 @@ TypeScript               2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Aarushi-Pandey/Aarushi-Pandey/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/06/2021
+ Last Updated on 22/06/2021
 <!--END_SECTION:waka-->
