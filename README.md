@@ -3,11 +3,11 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 211 Contributions in the Year 2021
  > 
-> 📦 116.2 kB Used in Github's Storage 
+> 📦 116.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,16 +44,17 @@ Sunday       18 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Tijuana
 
 💬 Programming Languages: 
-Bash                     1 min               █████████████████████████   100.0%
+Bash                     3 mins              █████████████████████████   100.0% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.0%
+VS Code                  3 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-website                  1 min               █████████████████████████   100.0%
+website                  3 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.0%
+Windows                  3 mins              █████████████████████████   100.0%
 
 ```
 
@@ -74,5 +75,5 @@ TypeScript               2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Aarushi-Pandey/Aarushi-Pandey/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/09/2021
+ Last Updated on 23/09/2021
 <!--END_SECTION:waka-->
