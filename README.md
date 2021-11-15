@@ -5,7 +5,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 220 Contributions in the Year 2021
+> 🏆 222 Contributions in the Year 2021
  > 
 > 📦 180.8 kB Used in GitHub's Storage 
  > 
@@ -27,9 +27,9 @@
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       46 commits     ███████░░░░░░░░░░░░░░░░░░   27.88% 
+Monday       47 commits     ███████░░░░░░░░░░░░░░░░░░   28.48% 
 Tuesday      18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.91% 
-Wednesday    38 commits     █████░░░░░░░░░░░░░░░░░░░░   23.03% 
+Wednesday    37 commits     █████░░░░░░░░░░░░░░░░░░░░   22.42% 
 Thursday     11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
 Friday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.06% 
 Saturday     24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.55% 
@@ -74,5 +74,5 @@ TypeScript               2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Aarushi-Pandey/Aarushi-Pandey/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/11/2021
+ Last Updated on 15/11/2021
 <!--END_SECTION:waka-->
