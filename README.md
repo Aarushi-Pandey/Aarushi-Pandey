@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 **🐱 My GitHub Data** 
 
@@ -44,16 +44,16 @@ Sunday       20 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Tijuana
 
 💬 Programming Languages: 
-JavaScript               1 hr 4 mins         █████████████████████████   100.0%
+JavaScript               1 hr 27 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  1 hr 4 mins         █████████████████████████   100.0%
+VS Code                  1 hr 27 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-website                  1 hr 4 mins         █████████████████████████   100.0%
+website                  1 hr 27 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  1 hr 4 mins         █████████████████████████   100.0%
+Windows                  1 hr 27 mins        █████████████████████████   100.0%
 
 ```
 
@@ -74,5 +74,5 @@ TypeScript               2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Aarushi-Pandey/Aarushi-Pandey/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/11/2021
+ Last Updated on 24/11/2021
 <!--END_SECTION:waka-->
