@@ -44,16 +44,16 @@ Sunday       20 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Tijuana
 
 💬 Programming Languages: 
-JavaScript               47 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  47 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-website                  47 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  47 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -74,5 +74,5 @@ TypeScript               2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Aarushi-Pandey/Aarushi-Pandey/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/11/2021
+ Last Updated on 05/12/2021
 <!--END_SECTION:waka-->
