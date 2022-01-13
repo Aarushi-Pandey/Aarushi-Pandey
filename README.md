@@ -44,17 +44,16 @@ Sunday       20 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Tijuana
 
 💬 Programming Languages: 
-CSS                      54 mins             ██████████████░░░░░░░░░░░   56.51% 
-HTML                     41 mins             ██████████░░░░░░░░░░░░░░░   43.49%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 36 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-wehack-utd2-0.github.io  1 hr 36 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 36 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -75,5 +74,5 @@ TypeScript               2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Aarushi-Pandey/Aarushi-Pandey/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/01/2022
+ Last Updated on 13/01/2022
 <!--END_SECTION:waka-->
