@@ -44,22 +44,16 @@ Sunday       21 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Tijuana
 
 💬 Programming Languages: 
-Other                    29 mins             ███████████████░░░░░░░░░░   62.25% 
-TypeScript               16 mins             ████████░░░░░░░░░░░░░░░░░   33.86% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.34% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.55%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  47 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-hackportal-wehack        28 mins             ███████████████░░░░░░░░░░   61.08% 
-hackportal               17 mins             █████████░░░░░░░░░░░░░░░░   36.37% 
-pande                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.34% 
-wehack-hackportal        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  47 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -80,5 +74,5 @@ TypeScript               2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Aarushi-Pandey/Aarushi-Pandey/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/04/2022 18:46:47 UTC
+ Last Updated on 10/04/2022 18:45:58 UTC
 <!--END_SECTION:waka-->
