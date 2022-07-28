@@ -76,5 +76,5 @@ TypeScript               2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Aarushi-Pandey/Aarushi-Pandey/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/07/2022 18:46:31 UTC
+ Last Updated on 28/07/2022 18:50:15 UTC
 <!--END_SECTION:waka-->
