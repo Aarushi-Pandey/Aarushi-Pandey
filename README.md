@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -46,17 +46,17 @@ Sunday       21 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Tijuana
 
 💬 Programming Languages: 
-Python                   2 hrs 48 mins       █████████████████████████   99.95% 
+Python                   2 hrs 50 mins       █████████████████████████   99.95% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
 🔥 Editors: 
-VS Code                  2 hrs 48 mins       █████████████████████████   100.0%
+VS Code                  2 hrs 50 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-pande                    2 hrs 48 mins       █████████████████████████   100.0%
+pande                    2 hrs 50 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  2 hrs 48 mins       █████████████████████████   100.0%
+Windows                  2 hrs 50 mins       █████████████████████████   100.0%
 
 ```
 
@@ -77,5 +77,5 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Aarushi-Pandey/Aarushi-Pandey/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/09/2022 18:51:35 UTC
+ Last Updated on 18/09/2022 18:50:40 UTC
 <!--END_SECTION:waka-->
