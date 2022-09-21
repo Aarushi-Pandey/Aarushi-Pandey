@@ -77,5 +77,5 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Aarushi-Pandey/Aarushi-Pandey/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/09/2022 18:53:08 UTC
+ Last Updated on 21/09/2022 18:55:16 UTC
 <!--END_SECTION:waka-->
